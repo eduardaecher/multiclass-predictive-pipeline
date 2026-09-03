@@ -106,7 +106,7 @@ No teste com imagens manuscritas próprias, o modelo acertou **9 de 10 dígitos*
 
 ## 🎥 Vídeo de apresentação
 
-O vídeo de apresentação do projeto está disponível em: `<inserir link do Google Drive aqui>`
+O vídeo de apresentação do projeto está disponível em: https://drive.google.com/file/d/17rfzSp0VLD-kPvHF3aV2S788nSveW9D3/view?usp=sharing
 
 ## 👩‍💻 Autoria
 
